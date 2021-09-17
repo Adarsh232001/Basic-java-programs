@@ -5,3 +5,4 @@ helps in learning java
 3. [Creating Files](https://github.com/Adarsh232001/Basic-java-programs/blob/main/CreateFile.java)
 4. [Prime Number](https://github.com/Adarsh232001/Basic-java-programs/blob/main/PrimeNumber.java)
 5. [Mergesort](https://github.com/Adarsh232001/Basic-java-programs/blob/main/Mergesort.java)
+6. [Multi Threading](https://github.com/Adarsh232001/Basic-java-programs/blob/main/MltiThread.java)
