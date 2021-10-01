@@ -8,3 +8,4 @@ helps in learning java
 6. [Multi Threading](https://github.com/Adarsh232001/Basic-java-programs/blob/main/MltiThread.java)
 7. [Stack Operations](https://github.com/Adarsh232001/Basic-java-programs/blob/main/stack_operations.java)
 8. [QuickSort](https://github.com/Adarsh232001/Basic-java-programs/blob/main/Quicksort.java)
+9. [Random Numbers](https://github.com/Adarsh232001/Basic-java-programs/blob/main/random.java)
